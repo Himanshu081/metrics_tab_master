@@ -218,7 +218,7 @@ ul {
 .landing .svg-right{
     width: 60%;
     /* border: 5px solid black; */
-    background: url(/images/main2.svg)no-repeat;
+    background: url(https://himanshu081.github.io/metrics_tab_master/images/main2.svg)no-repeat;
     background-size: cover;
     display: inline-block;
     justify-content: center;
@@ -242,7 +242,7 @@ ul {
     height: 640px;
     /* border: 5px solid black; */
     font-family: 'Quicksand';
-    background: url(/images/Group-2.svg)no-repeat;
+    background: url(https://himanshu081.github.io/metrics_tab_master/images/Group-2.svg)no-repeat;
     background-size: cover;
 
    
